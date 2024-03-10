@@ -54,8 +54,8 @@ params:
           Hi, welcome to my website. I am Ismael, a fourth year PhD student at the European University Institute in Florence, working under the supervision of Thomas Crossley and Andrea Ichino.
           My research interests are mainly in labor and household finances."
           imageUrl: "picture.jpeg"
-          imageWidth: 240
-          imageHeight: 240
+          imageWidth: 200
+          imageHeight: 200
           imageTitle: Ismael Moreno-Martinez
           buttons:
             - name: CV
@@ -68,10 +68,10 @@ params:
 #              url: data/
 #            - name: Newsletter
 #              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+#            - name: Tags
+#              url: tags/
+#            - name: Archive
+#              url: archive/
     socialIcons:
 #        - name: CV
 #          url: cv.pdf
