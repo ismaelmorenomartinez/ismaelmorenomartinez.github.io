@@ -25,8 +25,8 @@ menu:
 #          weight: 4
 
 params:
-    description: "xxx"
-    author: Name
+    description: "Hi, welcome to my website. I'm Ismael, a fourth year PhD student at the European University Institute in Florence."
+    author: Ismael Moreno-Martinez
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
