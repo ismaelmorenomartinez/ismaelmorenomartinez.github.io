@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://ismaelmorenomartinez.github.io/" 
 title: Ismael Moreno-Martinez
 paginate: 20
 theme: PaperMod
@@ -14,19 +14,18 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+#        - name: Courses
+#          url: courses/
+#          weight: 2
+#        - name: Data
+#          url: data/
+#          weight: 3 
+#        - name: Newsletter
+#          url: https://pmichaillat.substack.com
+#          weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
+    description: "xxx"
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -53,18 +52,20 @@ consequat."
           title: Ismael Moreno-Martinez
           subtitle: "I'm a fourth year PhD Student."
           imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 240
+          imageHeight: 240
           imageTitle: Prof. Name
           buttons:
+            - name: CV
+              url: cv.pdf
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+#            - name: Courses
+#              url: courses/
+#            - name: Data
+#              url: data/
+#            - name: Newsletter
+#              url: https://pmichaillat.substack.com
             - name: Tags
               url: tags/
             - name: Archive
