@@ -54,7 +54,7 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 240
           imageHeight: 240
-          imageTitle: Prof. Name
+          imageTitle: Ismael Moreno-Martinez
           buttons:
             - name: CV
               url: cv.pdf
@@ -70,25 +70,25 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-    socialIcons:
-        - name: CV
-          url: cv.pdf
+#    socialIcons:
+#        - name: CV
+#          url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: mailto:ismael.moreno@eui.eu
+#        - name: Location
+#          url: location/
+#        - name: Office Hours
+#          url: officehours/
+#        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=xImFVNAAAAAJ
+#        - name: YouTube
+#          url: https://www.youtube.com/@pmichaillat
+#        - name: GitHub
+#          url: https://github.com/pmichaillat
+#        - name: Substack
+#          url: https://pmichaillat.substack.com
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/MorenoMartinezI
 
     assets:
         disableHLJS: true
@@ -97,7 +97,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Ismael Moreno-Martinez"
       icon: favicon.ico
       iconHeight: 18
 
