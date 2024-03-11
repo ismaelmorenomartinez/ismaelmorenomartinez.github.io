@@ -29,7 +29,7 @@
     --lineheight: 1.45;
     --lineclamp: 8;
     --marginleft: 26px;
-    --list-item-gap: 64px; /* Adjust the value as needed */
+    --list-item-gap: 24px; /* Adjust the value as needed */
 }
 
 .dark {
