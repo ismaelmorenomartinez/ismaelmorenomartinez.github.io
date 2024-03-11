@@ -9,8 +9,8 @@
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
     --primary: rgb(51, 41, 0); /*previously triple 30 */
-    --secondary: rgb(153, 123, 0); /*previously triple 108 */
-    --tertiary: rgb(255, 245, 204); /*previously triple 214 */
+    --secondary: rgb(255, 206, 204); /*previously triple 108 */
+    --tertiary: rgb(214, 214, 214); /*previously triple 214 */
     --gray: rgb(165, 165, 165);
     --content: rgb(30, 30, 30);
     --hljs-bg: rgb(28, 29, 33);
