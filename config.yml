@@ -58,6 +58,8 @@ params:
           buttons:
             - name: CV
               url: cv.pdf
+            - name: Research
+              url: research/
 #            - name: Papers
 #              url: papers/
 #            - name: Courses
