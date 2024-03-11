@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Research
-          url: Research/
+          url: research/
           weight: 1
 #        - name: Courses
 #          url: courses/
