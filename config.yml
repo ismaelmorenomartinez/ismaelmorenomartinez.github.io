@@ -11,8 +11,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: Research/
           weight: 1
 #        - name: Courses
 #          url: courses/
