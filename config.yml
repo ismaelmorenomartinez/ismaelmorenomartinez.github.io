@@ -50,10 +50,10 @@ params:
     profileMode:
           enabled: true
           title: "Ismael<br>Moreno-Martinez"
-          subtitle: Hi, welcome to my website. I'm Ismael, a fourth year PhD student at the European University Institute in Florence, working under the supervision of [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Andrea Ichino</u>](http://www.andreaichino.it/). <br><br>My research interests are mainly in labor and household finances.
+          subtitle: I'm a fourth year PhD student at the European University Institute in Florence, working under the supervision of [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Andrea Ichino</u>](http://www.andreaichino.it/). <br><br>My research interests are mainly in labor and household finances.
           imageUrl: "picture.jpeg"
-          imageWidth: 200
-          imageHeight: 200
+          imageWidth: 180
+          imageHeight: 180
           imageTitle: Ismael Moreno-Martinez
           buttons:
             - name: CV
