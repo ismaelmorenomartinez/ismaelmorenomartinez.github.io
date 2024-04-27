@@ -5,9 +5,9 @@ description: "Publications, working papers and other work in progress"
 
 ## Work in Progress
 - **Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents** (with [Benjamin Hattemer](https://benjaminhattemer.com/)) [*Draft coming soon*]
-  <details>
+- <details>
     <summary>Abstract</summary>
-    This paper explores the linkage between air pollution levels and the frequency and severity of work-related accidents. By analyzing data from various industries, we provide evidence that poorer air quality significantly increases workplace hazards.
+    This study offers novel causal estimates of the effect of air pollution on workplace accidents. We focus on a near world-wide natural source of air pollution: dust precipitation. We use administrative data on the universe of work accidents reported in Spain.  Our estimates imply that an average day of dust precipitation induces a 1.2 percent increase in work accidents. We find these effects are pervasive for workers of different income levels. Effects are also significant for occupations of high and medium work-accident-risk, which employ 40 percent of the workforce.
   </details>
   
 - **Portfolio Choices and Bank Branches** (with [Jin Cao](https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/), [Kasper Roszbach](https://sites.google.com/view/kasperroszbach), and [Marina Sanchez del Villar](https://marinasvs.github.io/))
