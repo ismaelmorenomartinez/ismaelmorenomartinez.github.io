@@ -11,5 +11,3 @@ description: "Publications, working papers and other work in progress"
 ## Other Publications
 
 - **The Spanish survey of household finances (EFF): description and methods of the 2014 wave** (with [Olympia Bover](https://sites.google.com/site/olympiabover/olympia-bover), [Laura Crespo](https://sites.google.com/site/lauracrespoweb/), and Carlos Gento) [[Link]](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosOcasionales/18/Files/do1804e.pdf) 
-
-Here is a line with a dropdown: <details class="inline-details"><summary>More Info</summary><div class="content">This is additional information that shows when you click on More Info.</div></details>
