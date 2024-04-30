@@ -2,18 +2,19 @@
 title: "Research"
 description: "Publications, working papers and other work in progress"
 ---
-
-# Work in Progress
-
-**Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents** (with [Benjamin Hattemer](https://benjaminhattemer.com/))
+# Working Papers
+**Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents** (with [Benjamin Hattemer](https://benjaminhattemer.com/)) <br> [[SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658)]
 ###### Presented at: Microeconometrics Working Group, EUI; Norges Bank; Institute for Labour Law and Industrial Relations in the European Union
 
   <details>
     <summary> Abstract </summary>
-    This study offers novel causal estimates of the effect of air pollution on workplace accidents. We focus on a near world-wide natural source of air pollution: dust precipitation. We use administrative data on the universe of work accidents reported in Spain. Our estimates imply that an average day of dust precipitation induces a 1.2 percent increase in work accidents. We find these effects are pervasive for workers of different occupations, income levels and demographic characteristics. 
+    This study offers novel causal estimates of the effect of air pollution on workplace accidents. We focus on a near world-wide natural source of air pollution: dust precipitation. We use administrative data on the universe of work accidents reported in Spain. Our estimates imply that an average day of dust precipitation induces a 1.2 percent increase in work accidents. We find these effects are pervasive for workers of different occupations, income levels and demographic characteristics. We also provide evidence supporting temporary impairment of physical and cognitive performance as the main causal channel.
   </details> 
-  
+    
 ---
+
+# Work in Progress
+
 
 **Portfolio Choices and Bank Branches** (with [Jin Cao](https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/), [Kasper Roszbach](https://sites.google.com/view/kasperroszbach), and [Marina Sanchez del Villar](https://marinasvs.github.io/))
 
