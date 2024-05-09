@@ -4,11 +4,12 @@ description: "Publications, working papers and other work in progress"
 ---
 ## Working Papers
 
-[**Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658) with [Benjamin Hattemer](https://benjaminhattemer.com/)
+[**Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658)
+###### with [Benjamin Hattemer](https://benjaminhattemer.com/)
 
 ###### Presented (or will be presented) at: 24th Annual Conference of the European Association of Environmental and Resource Economists, KU Leuven; 2nd Young AERNA Day, University of Girona; 1st International Conference of the Georgian Economic Association, Tbilisi; Microeconometrics Working Group, EUI; Norges Bank; Institute for Labour Law and Industrial Relations in the European Union
 
-##### Coverage: [La Fonte](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658)
+#### Coverage: [La Fonte](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658)
 
   <details>
     <summary> Abstract </summary>
