@@ -64,7 +64,7 @@ params:
             - name: Research
               url: research/
             - name: Teaching
-              url: research/
+              url: teaching/
 #            - name: Papers
 #              url: papers/
 #            - name: Courses
