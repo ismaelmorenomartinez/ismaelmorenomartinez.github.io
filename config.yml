@@ -11,6 +11,9 @@ taxonomies:
 
 menu:
     main:
+        - name: CV
+          url: cv.pdf
+          weight: 1
         - name: Research
           url: research/
           weight: 1
