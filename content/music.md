@@ -1,3 +1,8 @@
+---
+title: "Music"
+description: "Music I listen while doing my job. Mostly meditative ambient classics."
+---
+
 ## Music to Focus
 
 Music I listen while doing my job. Mostly meditative ambient classics.
