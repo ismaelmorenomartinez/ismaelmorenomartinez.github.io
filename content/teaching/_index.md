@@ -2,6 +2,7 @@
 title: "Teaching"
 description: "."
 ---
+## Teaching Assistant
 ### Master level
 
-- TA: International Economics I, 2021-2022 (Johns Hopkins University) 
+- International Economics I, 2021-2022 (Johns Hopkins University) 
