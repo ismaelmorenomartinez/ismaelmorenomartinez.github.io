@@ -1,3 +1,9 @@
+---
+title: "Music"
+date: 2024-05-14
+draft: false
+---
+
 # Some Header
 
 Welcome to my music page!
