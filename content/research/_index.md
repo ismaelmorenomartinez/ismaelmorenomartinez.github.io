@@ -9,11 +9,11 @@ with [Benjamin Hattemer](https://benjaminhattemer.com/)
 
 ###### Presented at: 24th EAERE Annual Conference, KU Leuven; 39th AIEL Conference, University of Naples Federico II; 10th Atlantic Workshop on Energy and Environmental Economics; Workshop on the Environment, Climate Change and Disasters, Gran Sasso Science Institute; 2nd Young AERNA Day, University of Girona; 1st International Conference of the Georgian Economic Association; Microeconometrics Working Group, EUI; Norges Bank; Institute for Labour Law and Industrial Relations in the European Union
 
-###### Coverage: [La Fonte](https://lafonte.eui.eu/2024/05/09/dust-to-dust-how-natural-air-pollution-induces-work-accidents/)
+###### Blogpost: [La Fonte](https://lafonte.eui.eu/2024/05/09/dust-to-dust-how-natural-air-pollution-induces-work-accidents/)
 
   <details>
     <summary> Abstract </summary>
-This study provides novel causal estimates of the effect of air pollution on workplace accidents. We focus on a near-worldwide natural source of air pollution: dust precipitation. We use administrative data on the universe of work accidents reported in Spain from 2010 to 2019. Our estimates reveal that a day of dust precipitation induces a 1.4 percent increase in work accidents, this corresponds to 40 percent of the impact of a day with extreme heat. We calculate the burden of dust precipitation corresponds to approximately one in every 400 workplace accidents.  Except for the highest wage quintile, impacts are significant for workers along the wage distribution. Effects in percentage terms are similar across occupations. However,  workers in high-risk jobs suffer an increase in per capita  accidents 22 times larger than workers in low-risk jobs. Increases in workplace accidents are observed across incidents of varying severity, including those requiring over two months of sick leave. The results are consistent with exposure to dust increasing the likelihood of human error across a broad range of tasks and activities. 
+This study provides causal estimates of the effect of air pollution on workplace safety using data on the universe of work accidents reported in Spain (2010-2019). We focus on a near-worldwide natural source of air pollution: mineral dust precipitation. Our estimates reveal dust precipitation marginal effects and overall burden on workplace safety are of the same order of magnitude as those of high temperatures. Impacts are widespread, spanning most worker and accident characteristics, and consistent with dust inducing human error across diverse tasks and activities. However, we find null effects for workers at the top quintile of the wage distribution.
   </details> 
     
 ---
