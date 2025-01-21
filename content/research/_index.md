@@ -30,7 +30,7 @@ with [Josep Amer-Mestre](https://www.josepamermestre.com/)
 with [Jin Cao](https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/), [Kasper Roszbach](https://sites.google.com/view/kasperroszbach), and [Marina Sanchez del Villar](https://marinasvs.github.io/)
 
 ---
-## Other Publications
+## Pre-PhD Work
 
 [**The Spanish survey of household finances (EFF): description and methods of the 2014 wave**](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosOcasionales/18/Files/do1804e.pdf) 
  <br>
