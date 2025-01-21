@@ -21,6 +21,11 @@ with [Benjamin Hattemer](https://benjaminhattemer.com/)
 
 ## Work in Progress
 
+**Trends in Occupational Fatality Risk and Inequality** <br>
+
+**Minimum Wage and Workplace Safety** <br>
+with [Josep Amer-Mestre](https://www.josepamermestre.com/)
+
 **Portfolio Choices and Bank Branches** <br>
 with [Jin Cao](https://www.norges-bank.no/en/topics/Research/economists/Cao-Jin/), [Kasper Roszbach](https://sites.google.com/view/kasperroszbach), and [Marina Sanchez del Villar](https://marinasvs.github.io/)
 
