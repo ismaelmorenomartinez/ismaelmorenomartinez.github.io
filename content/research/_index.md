@@ -14,7 +14,7 @@ with [Benjamin Hattemer](https://benjaminhattemer.com/)
     
   ###### Presented at: 24th EAERE Annual Conference, KU Leuven; 39th AIEL Conference, University of Naples Federico II; 10th Atlantic Workshop on Energy and Environmental Economics; Workshop on the Environment, Climate Change and Disasters, Gran Sasso Science Institute; 2nd Young AERNA Day, University of Girona; 1st International Conference of the Georgian Economic Association; Microeconometrics Working Group, EUI; Norges Bank; Institute for Labour Law and Industrial Relations in the European Union
 
-###### Blogpost: [La Fonte](https://lafonte.eui.eu/2024/05/09/dust-to-dust-how-natural-air-pollution-induces-work-accidents/)
+###### [La Fonte (blogpost)](https://lafonte.eui.eu/2024/05/09/dust-to-dust-how-natural-air-pollution-induces-work-accidents/)
   </details> 
     
 ---
