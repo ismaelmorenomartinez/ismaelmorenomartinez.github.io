@@ -68,7 +68,7 @@ footer {
 }
 
 .section-title {
-    width: 200px; /* Adjust the width as needed */
+    width: 220px; /* Adjust the width as needed */
     flex-shrink: 0; /* Prevents shrinking */
     text-align: left; /* Aligns title text */
 }
@@ -138,7 +138,7 @@ footer {
 /* Improve readability on very small screens */
 @media (max-width: 480px) {
     body {
-        font-size: 0.9em; /* Reduce overall font size */
+        font-size: 1em; /* Reduce overall font size */
     }
 
     h1 {
