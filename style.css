@@ -103,6 +103,8 @@ footer {
     border-radius: auto;
 }
 
+
+
 .image-container nav {
     display: flex;
     justify-content: center; /* Centers the links */
@@ -186,4 +188,16 @@ footer {
     border-radius: 0; /* Ensures no rounded corners */
     display: block; /* Places it below the profile pic */
     margin: 0px auto; /* Centers the logo */
+}
+
+/* Default link color */
+a {
+    color: #1B82C5; /* Dark golden color */
+    text-decoration: none; /* Removes underline */
+}
+
+/* Change color when hovering */
+a:hover {
+    color:  #ff00c5 ; /* Slightly lighter golden color on hover */
+    text-decoration: underline; /* Adds underline when hovered */
 }
