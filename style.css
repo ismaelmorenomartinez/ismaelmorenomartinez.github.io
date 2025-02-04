@@ -1,0 +1,184 @@
+/* General styles */
+body {
+    font-family: "Courier New", Courier, monospace;
+    background: white;
+    color: black;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding: 15px;
+    display: inline-block; /* Improves tapability */
+}
+
+/* Make navigation stack on small screens */
+/* @media (max-width: 768px) {
+    nav a {
+        display: block;
+        padding: 8px 0;
+    }
+} */
+
+main, p {
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.8em;
+}
+
+/* Two-column layout for larger screens */
+.main-container, .section-container {
+    display: flex;
+    gap: 20px;
+}
+
+.main-container {
+    border: 2px solid black; /* Adds a black border */
+    padding: 10px; /* Adds some spacing inside the container */
+    border-radius: 5px; /* Optional: Rounds the corners */
+}
+
+
+
+/* Text container should take full width on small screens */
+.text-container, .section-content {
+    flex: 1;
+}
+
+.text-container h1 {
+    margin: 0; /* Remove extra space from h3 */
+    font-size: 1.5em; /* Ensure text isn't too big */
+}
+
+.section-title {
+    width: 200px; /* Adjust the width as needed */
+    flex-shrink: 0; /* Prevents shrinking */
+    text-align: left; /* Aligns title text */
+}
+
+
+/* Stack items vertically on smaller screens */
+@media (max-width: 768px) {
+    .main-container, .section-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .section-title {
+        text-align: center;
+        font-size: 1.2em;
+    }
+
+    .text-container {
+        text-align: left; /* Keeps readability */
+    }
+}
+
+/* Image styles */
+.image-container img {
+    max-width: 200px; /* Ensures consistency */
+    height: auto;
+    border-radius: auto;
+}
+
+.image-container nav {
+    display: flex;
+    justify-content: center; /* Centers the links */
+    align-items: center;
+    margin-top: 5px; /* Reduce space between logo and links */
+    margin-bottom: 0; /* Remove unnecessary space */
+}
+
+.image-container h3 {
+    margin: 0; /* Remove extra space from h3 */
+    font-size: 1.5em; /* Ensure text isn't too big */
+    font-weight: normal; /* Prevent bold text */
+}
+
+@media (max-width: 768px) {
+    .image-container img {
+        max-width: 80%; /* Adjust image size for mobile */
+    }
+}
+
+/* Presentation list styling */
+.presentation-list {
+    font-size: 0.85em;
+    font-weight: normal;
+    text-transform: none;
+    margin-top: -5px;
+}
+
+.section-title h2,
+.section-title h1, 
+.section-title h3 {
+    margin: 5px 0; /* Reduce top & bottom margin */
+    padding: 0; /* Ensure no extra padding */
+    line-height: 1.2; /* Reduce vertical spacing inside text */
+}
+
+
+/* Improve readability on very small screens */
+@media (max-width: 480px) {
+    body {
+        font-size: 0.9em; /* Reduce overall font size */
+    }
+
+    h1 {
+        font-size: 1.5em; /* Smaller headings */
+    }
+
+    h2 {
+        font-size: 1.2em;
+    }
+
+    .presentation-list {
+        font-size: 0.8em; /* Reduce font size of presentation list */
+    }
+
+    nav a {
+        font-size: 0.9em; /* Make navigation links smaller */
+    }
+}
+/* Profile picture styles */
+.profile-pic {
+    max-width: 200px;
+    height: auto;
+    border-radius: 10px; /* Keeps rounding for profile pic */
+}
+
+/* Paper pic style */
+.paper-pic {
+    max-width: 90vw; /* 90% of the viewport width */
+    max-height: auto;
+    width: 400px; /* Default width */
+    border-radius: 10px; /* Keeps rounding */
+    display: block; /* Ensures proper positioning */
+    margin: 0 auto; /* Centers image */
+}
+
+/* Logo styles - No border radius */
+.logo {
+    width: 150px; /* Adjust size */
+    height: auto;
+    border-radius: 0; /* Ensures no rounded corners */
+    display: block; /* Places it below the profile pic */
+    margin: 0px auto; /* Centers the logo */
+}
