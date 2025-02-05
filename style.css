@@ -6,6 +6,7 @@ body {
     max-width: 800px;
     margin: auto;
     padding: 20px;
+    
 }
 
 header {
@@ -20,7 +21,7 @@ nav {
 nav a {
     text-decoration: none;
     font-weight: bold;
-    color: black;
+    color: #1B82C5;
     padding: 15px;
     display: inline-block; /* Improves tapability */
 }
@@ -50,12 +51,10 @@ footer {
 }
 
 .main-container {
-    border: 2px solid black; /* Adds a black border */
-    padding: 10px; /* Adds some spacing inside the container */
-    border-radius: 5px; /* Optional: Rounds the corners */
+    border: 1px solid #1B82C5; /* Adds a black border */
+    padding: 5px; /* Adds some spacing inside the container */
+    border-radius: 0px; /* Optional: Rounds the corners */
 }
-
-
 
 /* Text container should take full width on small screens */
 .text-container, .section-content {
@@ -64,7 +63,7 @@ footer {
 
 .text-container h1 {
     margin: 0; /* Remove extra space from h3 */
-    font-size: 1.5em; /* Ensure text isn't too big */
+    font-size: 1.4em; /* Ensure text isn't too big */
 }
 
 .text-container, .section-container body {
@@ -168,7 +167,7 @@ footer {
 .profile-pic {
     max-width: 200px;
     height: auto;
-    border-radius: 10px; /* Keeps rounding for profile pic */
+    border-radius: 0px; /* Keeps rounding for profile pic */
 }
 
 /* Paper pic style */
