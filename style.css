@@ -68,7 +68,7 @@ footer {
 
 .text-container, .section-container body {
     margin: 0; /* Remove extra space from h3 */
-    font-size: 1.2em; /* Ensure text isn't too big */
+    font-size: 1em; /* Ensure text isn't too big */
 }
 
 .section-title {
