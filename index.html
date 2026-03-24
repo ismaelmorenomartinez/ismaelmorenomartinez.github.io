@@ -172,35 +172,52 @@ Background Course in Probability and Statistics, Fall 2024<br>
 
 
 
-    <script>
-        const altImages = [
-            "assets/profile_stained.png",
-            "assets/profile_caravaggio.png",
-            "assets/profile_picasso.png",
-            "assets/profile_olddisney.png",
-            "assets/profile_toystory.png",
-            "assets/profile_vangogh.png",
-            "assets/profile_moderndisney.png",
-            
-        ];
-    
-        const profilePic = document.getElementById("profile-pic");
-        const originalSrc = profilePic.src;
-    
-        profilePic.addEventListener("mouseenter", () => {
-            // Pick a random image different from the original
-            let newImage;
-            do {
-                newImage = altImages[Math.floor(Math.random() * altImages.length)];
-            } while (newImage === profilePic.src);
-    
-            profilePic.src = newImage;
-        });
-    
-        profilePic.addEventListener("mouseleave", () => {
-            profilePic.src = originalSrc;
-        });
-    </script>
+<script>
+    const altImages = [
+        "assets/profile_bauhaus.PNG",
+        "assets/profile_byzantim.png",
+        "assets/profile_caravaggio.png",
+        "assets/profile_claymation.png",
+        "assets/profile_egonschiele.PNG",
+        "assets/profile_glass.png",
+        "assets/profile_klimt.png",
+        "assets/profile_lowpoly.png",
+        "assets/profile_marble.png",
+        "assets/profile_noir.png",
+        "assets/profile_picasso.png",
+        "assets/profile_ukiyoe.png",
+    ];
+
+    // Preload all images on page load
+    altImages.forEach(src => {
+        const img = new Image();
+        img.src = src;
+    });
+
+    const profilePic = document.getElementById("profile-pic");
+    const originalSrc = profilePic.src;
+    let intervalId = null;
+
+    function getRandomImage(currentSrc) {
+        let newImage;
+        do {
+            newImage = altImages[Math.floor(Math.random() * altImages.length)];
+        } while (newImage === currentSrc);
+        return newImage;
+    }
+
+    profilePic.addEventListener("mouseenter", () => {
+        profilePic.src = getRandomImage(profilePic.src);
+        intervalId = setInterval(() => {
+            profilePic.src = getRandomImage(profilePic.src);
+        }, 1000);
+    });
+
+    profilePic.addEventListener("mouseleave", () => {
+        clearInterval(intervalId);
+        profilePic.src = originalSrc;
+    });
+</script>
 </body>
 </html>
 
