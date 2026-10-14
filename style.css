@@ -21,7 +21,7 @@ nav {
 nav a {
     text-decoration: none;
     font-weight: bold;
-    color: #1B82C5;
+    color: #0A55A1; /* University of Bonn blue */
     padding: 15px;
     display: inline-block; /* Improves tapability */
 }
@@ -51,7 +51,7 @@ footer {
 }
 
 .main-container {
-    border: 1px solid #1B82C5; /* Adds a black border */
+    border: 1px solid #0A55A1; /* University of Bonn blue border */
     padding: 5px; /* Adds some spacing inside the container */
     border-radius: 0px; /* Optional: Rounds the corners */
 }
@@ -121,6 +121,10 @@ footer {
 @media (max-width: 600px) {
     .image-container img {
         max-width: 60%; /* Adjust image size for mobile */
+    }
+
+    .image-container .logo {
+        margin-right: calc((100% - min(200px, 60%)) / 2); /* Keeps the logo under the centered profile pic's right edge */
     }
 }
 
@@ -193,18 +197,18 @@ footer {
     height: auto;
     border-radius: 0; /* Ensures no rounded corners */
     display: block; /* Places it below the profile pic */
-    margin: 0px auto; /* Centers the logo */
+    margin: 6px 0 0 auto; /* Small gap below the profile pic; aligns the logo's right edge with it */
 }
 
 /* Default link color */
 a {
-    color: #1B82C5; /* Dark golden color */
+    color: #0A55A1; /* University of Bonn blue */
     text-decoration: none; /* Removes underline */
 }
 
 /* Change color when hovering */
 a:hover {
-    color:  #ff00c5 ; /* Slightly lighter golden color on hover */
+    color: #FBBB00; /* University of Bonn yellow on hover */
     text-decoration: underline; /* Adds underline when hovered */
 }
 
@@ -214,4 +218,4 @@ a:hover {
     border-radius: 0; /* Ensures no rounded corners */
     display: block; /* Places it below the profile pic */
     margin: 0px auto; /* Centers the logo */
-}
+}
