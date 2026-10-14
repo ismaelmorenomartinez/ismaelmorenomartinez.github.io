@@ -1,2 +1,8 @@
 .DS_Store
 .hugo_build.lock
+
+# CV: track only the LaTeX source and build script
+cv/*
+!cv/*.tex
+!cv/*.bib
+!cv/build.sh
